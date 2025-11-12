@@ -1,17 +1,26 @@
-MIT License
+# The Nothing Mod License
 
 Copyright (c) 2025 ArqadeeGaming
+Copyright (c) 2025 Charles Morgan
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is granted to use and modify this software for **personal, non-commercial purposes only**. You may **not**:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+- Sell this software or any derivative works.
+- Redistribute or republish the original software in any form without modification.
+- Sublicense this software or include it in other projects without explicit permission from the copyright holder.
 
+**Publishing Modified Versions:**  
+You may fork and publish a modified version of this software **only if the following conditions are met**:
+
+1. **Code Changes:** At least **25% of the source code lines** must be changed, added, or removed relative to the original version.  
+2. **Assets Changes:** At least **25% of all original assets** (textures, models, sounds, or other resources) must be modified or replaced.  
+3. **Feature Changes:** Any new features or major modifications must be clearly documented in a **“Changelog” or “Modification Notice”** included with the published version.  
+4. **Third-Party Assets:** Any assets included in the modified version that are **not part of the original mod** must be properly licensed or used with permission from their respective copyright holders.  
+
+All four conditions must be met for a modified version to be legally published. Minor, superficial, or cosmetic changes do not satisfy these requirements.
+
+All rights not expressly granted are reserved.  
+This software is provided "as-is" without warranty of any kind. The author is **not liable** for any damage, loss of data, or other issues arising from the use of this software.
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -19,3 +28,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+### **ALL RIGHTS NOT EXPRESSLY MENTIONED ARE RESERVED.**
